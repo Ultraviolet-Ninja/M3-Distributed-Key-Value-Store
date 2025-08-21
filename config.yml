@@ -1,0 +1,20 @@
+self:
+  - 'self:8080'
+  - 'self:8081'
+  - 'self:8082'
+  - 'self:8083'
+  - 'self:8084'
+
+mac-inclusive:
+  - 'self:8080'
+  - 'self:8081'
+  - 'self:8082'
+  - 'mac:8080'
+  - 'mac:8081'
+
+mac-full-offshore:
+  - 'mac:8080'
+  - 'mac:8081'
+  - 'mac:8082'
+  - 'mac:8083'
+  - 'mac:8084'
